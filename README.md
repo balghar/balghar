@@ -4,7 +4,7 @@
    <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there, I'm <a href="#">Abdul Wakeel </a><img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="40px" height="40px"  /> 
   </h1>
    
- <p><em>Software Engineer at <a href="https://www.ciklum.com/">ciklum.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ <p><em>Software Engineer at <a href="#"> Student Company</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>  
   
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web,blockchain%20and%20app%20developer;Experienced%20Software%20Developer;3.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22">
